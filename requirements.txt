@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+openai
+neo4j
+spacy
+python-multipart
+pydantic
+PyPDF2
+tqdm
